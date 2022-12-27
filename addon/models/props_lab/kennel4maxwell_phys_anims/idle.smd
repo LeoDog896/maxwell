@@ -1,0 +1,9 @@
+// Created by Crowbar 0.72
+version 1
+nodes
+  0 "polymsh" -1
+end
+skeleton
+  time 0
+    0 0.000000 0.000000 0.000000 1.570669 0.000064 -0.000064
+end

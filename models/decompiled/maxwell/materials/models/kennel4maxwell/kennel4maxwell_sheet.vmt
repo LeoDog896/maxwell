@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\kennel4maxwell\kennel4maxwell_sheet"
+
+                  $phong 1
+                  $phongboost 1.2
+                  $phongexponent 5
+}

@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	$basetexture "models/dingus/dingus_whiskers"
+	$translucent 1
+	$model 1
+}

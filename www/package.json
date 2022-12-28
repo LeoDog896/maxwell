@@ -1,0 +1,19 @@
+{
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html --public-url=./",
+    "format": "prettier --write ."
+  },
+  "dependencies": {
+    "downloadjs": "^1.4.7",
+    "parcel": "^2.8.2"
+  },
+  "devDependencies": {
+    "@google/model-viewer": "^2.1.1",
+    "@parcel/transformer-sass": "2.8.2",
+    "@types/downloadjs": "^1.4.3",
+    "@types/three": "^0.146.0",
+    "buffer": "^5.5.0",
+    "prettier": "2.8.1"
+  }
+}

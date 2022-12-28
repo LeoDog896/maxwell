@@ -9,10 +9,6 @@ html {
   line-height: 1.5;
 }
 
-// elements are .container, canvas, and main
-
-// container will take up the full height and width of the page, and will have canvas and main as columns. Canvas is the larger column taking up as much space as possible, while main is the smaller column taking up 300 pixels.
-// do note that all elements will take up the full height
 .container {
   display: flex;
   flex-direction: row;
@@ -32,11 +28,14 @@ main {
   width: 100%;
 }
 
-h1, h2, p {
-  font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+h1,
+h2,
+p {
+  font-family: "Open Sans", Helvetica, Arial, sans-serif;
 }
 
-h1, h2 {
+h1,
+h2 {
   text-align: center;
 }
 
@@ -45,7 +44,6 @@ h1, h2 {
 }
 
 button {
-  // blackish
   background-color: #333;
   color: #fff;
   border: none;

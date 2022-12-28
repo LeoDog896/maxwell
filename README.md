@@ -2,6 +2,8 @@
 
 Open-source Maxwell the Cat information (originally named "dingus")
 
+Here for the webpage? Check out https://leodog896.github.io/maxwell.
+
 ## Where does maxwell originate?
 
 from an image of a meme where a cat is depicted bending a package that says "please do not bend":

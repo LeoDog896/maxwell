@@ -1,6 +1,6 @@
 # Maxwell
 
-Open-source Maxwell the Cat information (originally named "dingus")
+~~Open-Source~~ Source Available Maxwell the Cat information (originally named "dingus")
 
 Here for the webpage? Check out https://leodog896.github.io/maxwell.
 
